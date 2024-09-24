@@ -1,0 +1,14 @@
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\bin\Debug\net8.0\Bank.exe
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\bin\Debug\net8.0\Bank.deps.json
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\bin\Debug\net8.0\Bank.dll
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\bin\Debug\net8.0\Bank.pdb
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.dll
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.pdb
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+C:\Users\abdallah mohamed\OneDrive\Desktop\c#\Bank_soultion\Bank\obj\Debug\net8.0\ref\Bank.dll
